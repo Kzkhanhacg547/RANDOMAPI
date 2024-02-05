@@ -10,7 +10,7 @@ Dự án được phát triển bởi
 ## Sử Dụng
 Để sử dụng API, bạn chỉ cần thực hiện một HTTP GET request đến đường dẫn sau:
 
-- https://example.com/api/random-image](https://4dd9ea6e-d5a6-4f8f-892c-ce90e4d539b9-00-11lae77drh9zo.janeway.replit.dev/
+- https://4dd9ea6e-d5a6-4f8f-892c-ce90e4d539b9-00-11lae77drh9zo.janeway.replit.dev/
 - https://4dd9ea6e-d5a6-4f8f-892c-ce90e4d539b9-00-11lae77drh9zo.janeway.replit.dev/kz-api
 
 
